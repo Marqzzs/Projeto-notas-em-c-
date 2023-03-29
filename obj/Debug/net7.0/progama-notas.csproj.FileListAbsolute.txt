@@ -1,0 +1,15 @@
+C:\Users\55358961879\Desktop\progama-notas\bin\Debug\net7.0\progama-notas.exe
+C:\Users\55358961879\Desktop\progama-notas\bin\Debug\net7.0\progama-notas.deps.json
+C:\Users\55358961879\Desktop\progama-notas\bin\Debug\net7.0\progama-notas.runtimeconfig.json
+C:\Users\55358961879\Desktop\progama-notas\bin\Debug\net7.0\progama-notas.dll
+C:\Users\55358961879\Desktop\progama-notas\bin\Debug\net7.0\progama-notas.pdb
+C:\Users\55358961879\Desktop\progama-notas\obj\Debug\net7.0\progama-notas.csproj.AssemblyReference.cache
+C:\Users\55358961879\Desktop\progama-notas\obj\Debug\net7.0\progama-notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55358961879\Desktop\progama-notas\obj\Debug\net7.0\progama-notas.AssemblyInfoInputs.cache
+C:\Users\55358961879\Desktop\progama-notas\obj\Debug\net7.0\progama-notas.AssemblyInfo.cs
+C:\Users\55358961879\Desktop\progama-notas\obj\Debug\net7.0\progama-notas.csproj.CoreCompileInputs.cache
+C:\Users\55358961879\Desktop\progama-notas\obj\Debug\net7.0\progama-notas.dll
+C:\Users\55358961879\Desktop\progama-notas\obj\Debug\net7.0\refint\progama-notas.dll
+C:\Users\55358961879\Desktop\progama-notas\obj\Debug\net7.0\progama-notas.pdb
+C:\Users\55358961879\Desktop\progama-notas\obj\Debug\net7.0\progama-notas.genruntimeconfig.cache
+C:\Users\55358961879\Desktop\progama-notas\obj\Debug\net7.0\ref\progama-notas.dll
